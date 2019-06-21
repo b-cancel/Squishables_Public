@@ -1,5 +1,5 @@
 # Squishables_Public
-<img src="https://drive.google.com/file/d/1nce6WdfeBdENbUeXkrklkHDqsAeati7g/view?usp=sharing"/>
+<img src="https://drive.google.com/uc?export=download&id=1nce6WdfeBdENbUeXkrklkHDqsAeati7g/view?usp=sharing" width="850px"/>
 <br>
 Squishable is a Context-Based 2D platformer where you control your character’s velocity, acceleration, and impulse/jerk vector with the same 4 keys. It was primarily designed to be a couch coop game.
 <br>
