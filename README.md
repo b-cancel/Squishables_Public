@@ -35,6 +35,7 @@ For example since you are slimes you can stick to the ceiling, to get to the lev
 <br>
 <br>
 -------------------------MECHANICS-------------------------
+<br>
 The main mechanic is that you dont have a jump button or a duck button you can only create a force vector in any direction.
 <br>
 It's up to you to figure out how to best use that force vector given the scenario.
