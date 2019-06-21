@@ -40,10 +40,12 @@ The main mechanic is that you dont have a jump button or a duck button you can o
 <br>
 It's up to you to figure out how to best use that force vector given the scenario.
 <br>
+<br>
 <a href="https://drive.google.com/file/d/122daJ87Oiq5QSQomuUQiHK27wYGqPPhb/view?usp=sharing">Link To Density Changes</a>
 Moving towards an object increases your density and decreases your volume
 <br>
 Moving away from an object decreases your density and increases your volume
+<br>
 <br>
 <a href="https://drive.google.com/file/d/1Yi4nZxZyUNieWoPUwPXL6RkmWPJmOBUd/view?usp=sharing">Link To Easy Surface Transitions</a>
 You can only create 8 direction with your 4 buttons. But you should be able to properly move on any surface; and you should be able to move between surfaces of different types.
