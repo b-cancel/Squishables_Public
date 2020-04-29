@@ -1,5 +1,5 @@
 # Squishables_Public
-<img src="https://drive.google.com/uc?export=download&id=1nce6WdfeBdENbUeXkrklkHDqsAeati7g" width="850px"/>
+<img src="https://i.imgur.com/xLWgktz.png"/>
 <br>
 Squishable is a Context-Based 2D platformer where you control your character’s velocity, acceleration, and impulse/jerk vector with the same 4 keys. It was primarily designed to be a couch coop game.
 <br>
@@ -34,7 +34,7 @@ So, once the level unlocked. You and your friends could only agree on the level 
 For example since you are slimes you can stick to the ceiling, to get to the level that explores that idea, you need to learn that you CAN stick to the ceiling. Hints as to what to do would also appear in the level select screen.
 <br>
 <br>
--------------------------MECHANICS-------------------------
+<h3>MECHANICS</h3>
 <br>
 The main mechanic is that you dont have a jump button or a duck button you can only create a force vector in any direction.
 <br>
